@@ -1,0 +1,32 @@
+testcli: invio <Q><7><Ending> 
+testcli: recevo <Q><15><server: Ending> 
+testcli: invio <F><10><Not clear> 
+testcli: recevo <Q><18><server: Not clear> 
+testcli: invio <E><18><Taking time . . .> 
+testcli: recevo <Q><26><server: Taking time . . .> 
+testcli: invio <L><0><(null)> 
+testcli: recevo <Q><9><server: > 
+testcli: invio <L><16><This is correct> 
+testcli: recevo <Q><24><server: This is correct> 
+testcli: invio <O><0><(null)> 
+testcli: recevo <Q><9><server: > 
+testcli: invio <N><0><(null)> 
+testcli: recevo <Q><9><server: > 
+testcli: invio <K><5><Fred> 
+testcli: recevo <Q><13><server: Fred> 
+testcli: invio <Q><7><Ending> 
+testcli: invio <F><10><Not clear> 
+testcli: invio <E><18><Taking time . . .> 
+testcli: invio <L><0><(null)> 
+testcli: invio <L><16><This is correct> 
+testcli: invio <O><0><(null)> 
+testcli: invio <N><0><(null)> 
+testcli: invio <K><5><Fred> 
+testcli: recevo <Q><15><server: Ending> 
+testcli: recevo <Q><18><server: Not clear> 
+testcli: recevo <Q><26><server: Taking time . . .> 
+testcli: recevo <Q><9><server: > 
+testcli: recevo <Q><24><server: This is correct> 
+testcli: recevo <Q><9><server: > 
+testcli: recevo <Q><9><server: > 
+testcli: recevo <Q><13><server: Fred> 
